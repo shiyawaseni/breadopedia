@@ -5,8 +5,7 @@
 The self proclaimed "sexy brocoli"
 # Relationships
 Literally "ships"
-## Broc X Pon
-with [[Ponpon Patapon]]
-
-## Broc X Roch
-with [[Roch Foyr]]
+## Brocoli X Ponpon
+Historical images shows several evidences of indecency with [[Ponpon Patapon]]
+## Brocoli X Roch
+Historical images shows several evidences of indecency with [[Roch Foyr]]

@@ -1,7 +1,3 @@
----
-aliases:
-  - Tuna
----
 # Introduction
 Ereid Silksong, also known as Tuna, is married to [[Seri Weiss]], 
 # Lore

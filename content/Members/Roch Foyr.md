@@ -1,3 +1,7 @@
+---
+tags:
+  - Lalafell
+---
 # Introduction
 His wake up routine involves (in order); 
 - Shaving
@@ -6,5 +10,5 @@ His wake up routine involves (in order);
 - Prepare
 - Go
 
-> [!NOTE] Mana's Notes
+> [!NOTE] Mana's Note
 > Definately does something suspecious with the "..."

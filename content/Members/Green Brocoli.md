@@ -1,5 +1,10 @@
+---
+tags:
+  - Viera
+---
 # Introduction
 > Korean whos dreaming to be a hongdae guy
+> 
 > — [[Green Brocoli]]
 
 The self proclaimed "sexy brocoli"

@@ -1,11 +1,12 @@
 ---
-tags: []
+tags:
+  - Viera
 ---
 # Introduction
 > add say im a protector of women XD a nice gentleman
 > — [[Capik Ijat]]
 
-> [!info] Mana's Notes
+> [!NOTE] Mana's Note
 > ಠ_ಠ
 
 # Relationships

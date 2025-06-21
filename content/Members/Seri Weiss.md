@@ -1,3 +1,7 @@
+---
+tags:
+  - Aura
+---
 # Introduction
 The self proclaimed "Friendliest Lalafell", "Humanity's Last Hope", Mother of three etc... etc.. 
 Married to [[Ereid Silksong]], 

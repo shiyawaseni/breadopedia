@@ -1,6 +1,7 @@
 ---
 tags:
   - Aura
+  - Gposer
 ---
 # Introduction
 > [!NOTE] Mana's Note

@@ -3,3 +3,6 @@
 >
 >  — Elentari Valorsong
 
+# Relationships
+## [[Shad Valorsong]]
+

@@ -3,8 +3,8 @@ tags:
   - Aura
 ---
 # Introduction
-The self proclaimed "Friendliest Lalafell", "Humanity's Last Hope", Mother of three etc... etc.. 
-Married to [[Ereid Silksong]], 
+The self proclaimed "Friendliest Lalafell", "Humanity's Last Hope", "Mother of three" etc... etc.. 
+It is a well known fact that she is very addicted to Fantasia.
 
 > [!NOTE] Mana's Note
 > Also the reason why i have trust issues.
@@ -13,3 +13,7 @@ Married to [[Ereid Silksong]],
 > Rest now, Seri. May your eternal hour be filled with endless sunsets and bottomless supplies of your precious elixir. Your children will always remember how you could pause time to attend every school play, every sports game, and every bedtime story.
 > 
 > — [[Ereid Silksong]] whom was asked to write a eulogy for [[Seri Weiss]]
+
+# Relationships
+## [[Ereid Silksong]]
+They are Eternally Bonded.

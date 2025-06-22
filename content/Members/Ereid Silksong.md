@@ -3,7 +3,7 @@ tags:
   - Aura
 ---
 # Introduction
-Ereid Silksong, also known as Tuna, is married to [[Seri Weiss]], 
+Ereid Silksong, also known as Tuna.
 # Lore
 > Ereid Silksong was genetically modified artificial human created as the ultimate lifeform.
 > As a child soldier she rose above the ranks with her weapon of choice, the legendary katana.
@@ -13,3 +13,7 @@ Ereid Silksong, also known as Tuna, is married to [[Seri Weiss]],
 > — [[Seri Weiss]]  whom was asked to write a eulogy for [[Ereid Silksong]]
 
 ![[https://www.youtube.com/watch?v=Gd9OhYroLN0]]
+
+# Relationships
+## [[Seri Weiss]]
+They are eternally bonded.

@@ -11,8 +11,8 @@ Definitely a pervert.
 > I'm definitely sure ponpon likes yaoi.
 
 # Relationships
-## Ponpon X Capik (Caponik)
-On the 5th of June, 2025, a episode of "Caponik" was previewed showcasing "true love" between Capik and [[Ponpon Patapon]], however later Ponpon caught Capik talking to another person and fell into depression.
+## [[Capik Ijat]]
+On the 5th of June, 2025, a episode of "Caponik" was previewed showcasing "true love" between [[Capik Ijat]] and [[Ponpon Patapon]], however later Ponpon caught Capik talking to another person and fell into depression.
 
 ## Pon X Brocoli
 Historical images shows several evidences of indecency with [[Green Brocoli]]

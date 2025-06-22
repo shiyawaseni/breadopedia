@@ -1,4 +1,6 @@
 ---
 title: The Breaderhood
 ---
-The Breaderhood is a Free Company in Tonberry Server.
+# Introduction
+**The Breaderhood** «Bread» is a Free Company in **Tonberry, Elemental**.
+

@@ -10,7 +10,7 @@ tags:
 The self proclaimed "sexy brocoli"
 # Relationships
 Literally "ships"
-## Brocoli X Ponpon
+## [[Ponpon Patapon]]
 Historical images shows several evidences of indecency with [[Ponpon Patapon]]
-## Brocoli X Roch
+## [[Roch Foyr]]
 Historical images shows several evidences of indecency with [[Roch Foyr]]

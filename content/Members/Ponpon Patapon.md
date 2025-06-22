@@ -13,7 +13,7 @@ Definitely a pervert.
 # Relationships
 ## [[Capik Ijat]]
 On the 5th of June, 2025, a episode of "Caponik" was previewed showcasing "true love" between [[Capik Ijat]] and [[Ponpon Patapon]], however later Ponpon caught Capik talking to another person and fell into depression.
-
-## Pon X Brocoli
+![[Caponik Season 1.png]]
+## Green Brocoli
 Historical images shows several evidences of indecency with [[Green Brocoli]]
-
+![[BrocXPon.png]]

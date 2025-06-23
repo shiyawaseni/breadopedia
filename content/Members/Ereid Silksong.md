@@ -4,7 +4,8 @@ tags:
 ---
 # Introduction
 Ereid Silksong, also known as Tuna.
-# Lore
+# Character
+## Lore
 > Ereid Silksong was genetically modified artificial human created as the ultimate lifeform.
 > As a child soldier she rose above the ranks with her weapon of choice, the legendary katana.
 > She was finally killed after defeating 10,000 men on her own and she was sent TO HELL.

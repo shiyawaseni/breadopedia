@@ -12,3 +12,7 @@ His wake up routine involves (in order);
 
 > [!NOTE] Mana's Note
 > Definately does something suspecious with the "..."
+
+# Relationships
+## [[Green Brocoli]]
+Historical images shows several evidences of indecency with [[Green Brocoli]]

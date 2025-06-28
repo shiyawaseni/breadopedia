@@ -3,11 +3,11 @@ tags:
   - Viera
 ---
 # Introduction
+The self proclaimed "sexy brocoli"
 > Korean whos dreaming to be a hongdae guy
 > 
 > — [[Green Brocoli]]
 
-The self proclaimed "sexy brocoli"
 # Relationships
 Literally "ships"
 ## [[Ponpon Patapon]]

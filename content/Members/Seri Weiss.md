@@ -3,7 +3,7 @@ tags:
   - Aura
 ---
 # Introduction
-The self proclaimed "Friendliest Lalafell", "Humanity's Last Hope", "Mother of three" etc... etc.. 
+The selfproclaimed "Friendliest Lalafell", "Humanity's Last Hope", "Mother of three" etc... etc.. 
 It is a well known fact that she is very addicted to Fantasia.
 
 > [!NOTE] Mana's Note

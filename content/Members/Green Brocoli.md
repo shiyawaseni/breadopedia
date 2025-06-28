@@ -13,5 +13,3 @@ Literally "ships"
 ## [[Ponpon Patapon]]
 Historical images shows several evidences of indecency with [[Ponpon Patapon]]
 ![[BrocXPon.png]]
-## [[Roch Foyr]]
-Historical images shows several evidences of indecency with [[Roch Foyr]]

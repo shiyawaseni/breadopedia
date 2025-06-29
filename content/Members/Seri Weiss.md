@@ -5,6 +5,7 @@ tags:
 # Introduction
 The selfproclaimed "Friendliest Lalafell", "Humanity's Last Hope", "Mother of three" etc... etc.. 
 It is a well known fact that she is very addicted to Fantasia.
+Married to [[Ereid Silksong]]
 
 > [!NOTE] Mana's Note
 > Also the reason why i have trust issues.

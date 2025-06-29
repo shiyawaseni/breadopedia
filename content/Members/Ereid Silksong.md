@@ -3,7 +3,8 @@ tags:
   - Aura
 ---
 # Introduction
-Also known as Tuna.
+Also known as Tuna
+Married to [[Seri Weiss]]
 # Character
 ## Lore
 > Ereid Silksong was genetically modified artificial human created as the ultimate lifeform.

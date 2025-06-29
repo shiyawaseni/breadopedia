@@ -4,6 +4,7 @@ tags:
   - Gposer
 ---
 # Introduction
+Akane ga-kill, nicknamed by [[Ponpon Patapon]], tends to have a higher chance to kill friendlies instead of healing them.
 
 > [!NOTE] Mana's Note
 > She scares me.

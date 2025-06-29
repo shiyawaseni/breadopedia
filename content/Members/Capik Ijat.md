@@ -6,7 +6,7 @@ tags:
 
 > add say im a protector of women XD a nice gentleman
 > 
-> — [[Capik Ijat]]
+> — Capik Ijat
 
 > [!NOTE] Mana's Note
 > ಠ_ಠ

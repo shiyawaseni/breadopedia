@@ -3,7 +3,7 @@ tags:
   - Aura
 ---
 # Introduction
-Ereid Silksong, also known as Tuna.
+Also known as Tuna.
 # Character
 ## Lore
 > Ereid Silksong was genetically modified artificial human created as the ultimate lifeform.

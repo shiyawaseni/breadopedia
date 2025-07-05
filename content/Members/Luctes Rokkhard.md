@@ -8,3 +8,7 @@ Luctes, also known as Luctus, Lactus, or anything that sounds close to it, is a 
 >NO PAT! Luctes is too Manly for Pats!
 >
 >— [[Luctes Rokkhard]]
+
+>I am oppai enthusiast
+>
+>— [[Luctes Rokkhard]]

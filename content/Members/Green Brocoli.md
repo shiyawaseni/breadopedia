@@ -1,6 +1,5 @@
 ---
-tags:
-  - Viera
+tags: []
 ---
 # Introduction
 The self proclaimed "sexy brocoli"

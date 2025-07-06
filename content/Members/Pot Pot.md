@@ -1,6 +1,5 @@
 ---
-tags:
-  - Roegadyn
+tags: []
 ---
 # Introduction
 Resident `/point` spammer

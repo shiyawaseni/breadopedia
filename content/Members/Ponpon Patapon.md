@@ -1,6 +1,5 @@
 ---
-tags:
-  - Lalafell
+tags: []
 ---
 ![[Ponpon Sleeping.png]]
 # Introduction

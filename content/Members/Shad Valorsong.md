@@ -1,6 +1,5 @@
 ---
-tags:
-  - Viera
+tags: []
 ---
 # Introduction
 > [!NOTE] Mana's Note

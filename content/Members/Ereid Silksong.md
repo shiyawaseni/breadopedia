@@ -1,6 +1,5 @@
 ---
-tags:
-  - Aura
+tags: []
 ---
 # Introduction
 Also known as Tuna

@@ -1,6 +1,5 @@
 ---
-tags:
-  - Elezen
+tags: []
 ---
 # Introduction
 Normally known as just Blare, the `Coke` dealer of the Free Company.

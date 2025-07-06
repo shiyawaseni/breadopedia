@@ -1,6 +1,5 @@
 ---
 tags:
-  - Miqote
   - "#Cancer"
 ---
 # Introduction

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Aura
   - Gposer
 ---
 # Introduction
